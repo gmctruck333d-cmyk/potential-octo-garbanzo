@@ -1,0 +1,171 @@
+# Dependencies
+node_modules/
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# IDE and Editor files
+.vscode/
+.vscode-settings.json
+.idea/
+.idea_modules/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.classpath
+*.c9/
+*.iml
+*.iws
+*.ipr
+
+# Build output
+dist/
+build/
+out/
+*.tgz
+*.tar.gz
+*.zip
+
+# Testing
+coverage/
+.nyc_output/
+jest-coverage/
+*.lcov
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+*.app
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env.test
+.env.production
+
+# Misc
+.cache/
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.cache
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# macOS
+._*
+.AppleDS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+desktop.ini
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# VS Code
+.vscode/
+.vscode-settings.json
+!.vscode/extensions.json
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Local development
+local/
+*.local
+.local
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
